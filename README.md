@@ -8,7 +8,7 @@
   <a href="https://janhuberty.github.io/" target="_blank">Portfolio Website</a> ·
   <a href="https://www.linkedin.com/in/jan-huberty/" target="_blank">LinkedIn</a> ·
   <a href="mailto:janhuberty@gmail.com">Email</a> ·
-  <a href="https://janhuberty.github.io/Jan_Huberty_CV.pdf" target="_blank">CV (PDF)</a>
+  <a href="https://janhuberty.github.io/assets/Pdfs/Jan_Huberty_CV.pdf" target="_blank">CV (PDF)</a>
 </p>
 
 ---
