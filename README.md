@@ -8,7 +8,7 @@
   <a href="https://janhuberty.github.io/" target="_blank">Portfolio Website</a> ·
   <a href="https://www.linkedin.com/in/jan-huberty/" target="_blank">LinkedIn</a> ·
   <a href="mailto:janhuberty@gmail.com">Email</a> ·
-  <a href="https://janhuberty.github.io/assets/Pdfs/Jan_Huberty_CV.pdf" target="_blank">CV (PDF)</a>
+  <a href="https://janhuberty.github.io/assets/Pdfs/Jan_Huberty_CV.pdf" target="_blank">CV</a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ### 🔭 What I'm focused on
 - Object detection on Pascal VOC 2007 with Faster R-CNN (PyTorch)
 - Pneumonia detection from chest X-rays (transfer learning)
-- Survey analytics: nutrition & gaming (EDA, PCA, clustering, dashboards)
+- Survey analytics: nutrition & gaming (EDA, PCA, clustering)
 - SQL projects (schema design, queries, reporting)
 
 ### 🧰 Tech
