@@ -29,6 +29,3 @@ SQL (MySQL) · Python (pandas, numpy, matplotlib) · PyTorch · Tableau · Git/G
 - **Thesis** — 200+ gamer survey: PCA, KMeans  
 - **SQL Public Library** — relational schema (15+ tables), constraints, reporting
 
----
-
-> I like turning messy data into clear stories — with solid engineering under the hood.
