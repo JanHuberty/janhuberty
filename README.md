@@ -23,9 +23,9 @@
 SQL (MySQL) · Python (pandas, numpy, matplotlib) · PyTorch · Tableau · Git/GitHub · Google Colab/Kaggle
 
 ### 📌 Featured projects
-- **Portfolio Site** — static site on GitHub Pages with project pages and OG previews  
-- **PascalVOC2007** — Faster R-CNN training/eval  
-- **Pneumonia** — ResNet classifier with metrics and checkpoints  
-- **Thesis** — 200+ gamer survey: PCA, KMeans  
-- **SQL Public Library** — relational schema (15+ tables), constraints, reporting
+- **Portfolio Site** : static site on GitHub Pages with project pages and OG previews  
+- **PascalVOC2007** : Faster R-CNN training/eval  
+- **Pneumonia** : ResNet classifier with metrics and checkpoints  
+- **Thesis** : 200+ gamer survey: PCA, KMeans  
+- **SQL Public Library** : relational schema (15+ tables), constraints, reporting
 
